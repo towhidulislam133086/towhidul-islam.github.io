@@ -1,0 +1,25 @@
+.nav-link {
+    padding-right: .5rem !important;
+    padding-left: .5rem !important;
+}
+
+
+/* Fixes dropdown menus placed on the right side */
+
+.ml-auto .dropdown-menu {
+    left: auto !important;
+    right: 0px;
+}
+
+.navbar,
+.navbar-nav,
+.nav-link {
+    padding-right: 1em;
+    margin-left: auto;
+    text-align: right;
+}
+
+.navbar-nav2 {
+    padding-right: 1em;
+    text-align: right;
+}
